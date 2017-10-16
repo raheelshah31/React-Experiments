@@ -138,7 +138,7 @@ class PersistentDrawer extends React.Component {
                 <MenuIcon />
               </IconButton>
               <Typography type="title" color="inherit" noWrap>
-                Grace Dashboard
+                Dashboard
               </Typography>
             </Toolbar>
           </AppBar>
